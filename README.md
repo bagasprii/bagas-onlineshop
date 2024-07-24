@@ -7,11 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## CONNECTING DATABASE
+## CONNECTING DATABASE 
 To import a database to your hosting environment, follow these general steps:
 
 1. **Export the Database:**
-   - If you haven't already, export your database from your local environment or existing hosting provider. This is typically done using a tool like phpMyAdmin, MySQL Workbench, or via command line tools like `mysqldump` for MySQL databases or `pg_dump` for PostgreSQL databases.
+   - Export `customer_db` database from your localfile github. This is typically done using a tool like phpMyAdmin, MySQL Workbench, or via command line tools like `mysqldump` for MySQL databases or `pg_dump` for PostgreSQL databases.
 
 2. **Prepare for Import:**
    - Ensure you have access to your hosting control panel (cPanel, Plesk, etc.) or command line access to your hosting server.
